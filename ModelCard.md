@@ -1,4 +1,4 @@
-# Model Card for Nest Success Prediction Model
+# Model Card
 
 ## Model Card for "The Impact of Dune Plants on Caretta Caretta Nest Success" Model
 
